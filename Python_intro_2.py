@@ -40,4 +40,4 @@ lifting_arm.run_to_position(0,"shortest path",20)
 
 #Tank Drive
 
-movement_motors.move_tank(20,'cm',50,30)
+movement_motors.move_tank(20,'cm')
